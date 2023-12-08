@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My name is Brittany Brower.
 
 This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
 
